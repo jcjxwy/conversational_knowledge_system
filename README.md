@@ -170,9 +170,9 @@ These choices are intentional to emphasize **AI engineering discipline over feat
 
 ## Author
 
-Jiang Chen
-Master of Computing (Artificial Intelligence), NUS
-Software Engineer (Backend & AI Systems)
+* Jiang Chen
+* Master of Computing (Artificial Intelligence), NUS
+* Software Engineer (Backend & AI Systems)
 
 ---
 
