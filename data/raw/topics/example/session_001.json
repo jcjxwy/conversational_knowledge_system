@@ -1,0 +1,18 @@
+{
+	"topic": "example",
+	"session_id": "session_001",
+	"create_at": "2026-02-10T21:30:00Z",
+	"model": "gpt-4.1",
+	"messages": [
+		{
+			"role": "user",
+			"content": "give me an example",
+			"timestamp": "2026-02-10T21:30:10Z"
+		},
+		{
+			"role": "assistant",
+			"content": "This is an example ...",
+			"timestamp": "2026-02-10T21:30:20Z"
+		}
+	]
+}
