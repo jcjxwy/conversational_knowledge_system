@@ -1,0 +1,11 @@
+{
+	"topic": "example",
+	"template_type": "dynamic_map",
+	"description": "this is an example template which dynamically map the dialogue content",
+	"root_key": "knowledge_points"
+	"entry_schema": {
+		"summary": "string",
+		"details": "string",
+		"examples": "string"
+	}
+}

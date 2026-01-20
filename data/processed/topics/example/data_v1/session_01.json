@@ -1,0 +1,22 @@
+{
+	{
+      "source": {
+        "topic": "machine_learning_notes",
+        "session_id": "session_001",
+        "template_version": 1,
+        "extracted_at": "2026-02-11T14:20:00Z"
+      },
+      "content": {
+        "knowledge_points": {
+          "Backpropagation": {
+            "summary": "Backpropagation is an algorithm for training neural networks by computing gradients of the loss function with respect to model parameters.",
+            "examples": "Used to train multilayer perceptrons and deep neural networks."
+          },
+          "Overfitting": {
+            "summary": "Overfitting occurs when a model learns noise from training data and fails to generalize to unseen data.",
+            "examples": "A deep model achieving near-zero training loss but poor validation performance."
+          }
+        }
+      }
+    }
+}
